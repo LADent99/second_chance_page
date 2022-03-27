@@ -25,7 +25,8 @@ Currently we have 4 main tabs, from left to right
     * Upon clicking to view a Profile, like the following one, you will see a match status button, matching is talked about more in depth [here](#matching)    
 * Match Listing, Your current matches, outgoing and incoming included.  _currently functional but not pictured_
 * Messaging, Non-functional messaging with your matches _currently **NOT** functional and not pictured_    
-* Your Profile  
+* Your Profile      
+<img src="assets/images/wireframe_navigation.jpg" height="500" alt="Navigation Image">
 
 ### Editing your Profile <a name="editting_profile"></a>    
 Currently, we only support editting your profile picture by clicking the small pencil icon by your picture.  In the future the information will be relevant and you will be able to update your information here    
@@ -34,15 +35,15 @@ Currently, we only support editting your profile picture by clicking the small p
 ### Matching <a name="matching"></a>
 Our matching system consists of 4 seperate states.
 1. Not Matched - Your default state with any user.  No connection between you two has been made    
-  **TODO: INSERT IMAGE**
 2. Pending Match, Outgoing - You have requested a match with this user.  You can either rescend the request or wait for them to accept    
-  **TODO: INSERT IMAGE**
 3. Pending Match, Incoming - You have recieved a match from this user.  You can either leave it pending and not accept, not creating a match, or you can accept and create a match with this user.    
-  <img src="assets/images/match_example1.jpg" height="500" alt="Incoming Match Image">
 4. Currently Matched - You are matched with this user.  In the future you will be able to message and exchange information    
-  <img src="assets/images/match_example2.jpg" height="500" alt="Currently Matched Image">
 
+#### Sending/Accepting Matches Workflow 
+<img src="assets/images/wireframe_match_sending.jpg" height="500" alt="Match Image 1">
 
+#### Removing Matches Workflow
+<img src="assets/images/wireframe_match_removing.jpg" height="500" alt="Match Image 2">
 
 ## Support and Bug Reporting <a name="support"></a>
 
