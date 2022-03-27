@@ -4,10 +4,12 @@ You can use the [editor on GitHub](https://github.com/LADent99/second_chance_pag
 
 ### User Manual
 #### Table of Contents
-* [Account Creation](#acount_creation)
+* [Account Creation](#account_creation)
 * [App Navigation](#app_navigation)
 * [Editing your Profile](#deitting_profile)
 * [Matching](#matching)
+
+
 #### Account Creation <a name="account_creation"></a>
 
 #### App Navigation <a name="app_navigation"></a>
