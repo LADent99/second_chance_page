@@ -26,11 +26,11 @@ Currently we have 4 main tabs, from left to right
 * Match Listing, Your current matches, outgoing and incoming included.  _currently functional but not pictured_
 * Messaging, Non-functional messaging with your matches _currently **NOT** functional and not pictured_    
 * Your Profile      
-<img src="assets/images/wireframe_navigation.jpg" height="500" alt="Navigation Image">
+<img src="assets/images/wireframe_navigation.jpg" alt="Navigation Image">
 
 ### Editing your Profile <a name="editting_profile"></a>    
 Currently, we only support editting your profile picture by clicking the small pencil icon by your picture.  In the future the information will be relevant and you will be able to update your information here    
-<img src="assets/images/wireframe_profile_picture.jpg" height="500" alt="Profile Image">
+<img src="assets/images/wireframe_profile_picture.jpg" alt="Profile Image">
 
 ### Matching <a name="matching"></a>
 Our matching system consists of 4 seperate states.
@@ -40,10 +40,10 @@ Our matching system consists of 4 seperate states.
 4. Currently Matched - You are matched with this user.  In the future you will be able to message and exchange information    
 
 #### Sending/Accepting Matches Workflow 
-<img src="assets/images/wireframe_match_sending.jpg" height="500" alt="Match Image 1">
+<img src="assets/images/wireframe_match_sending.jpg" alt="Match Image 1">
 
 #### Removing Matches Workflow
-<img src="assets/images/wireframe_match_removing.jpg" height="500" alt="Match Image 2">
+<img src="assets/images/wireframe_match_removing.jpg" alt="Match Image 2">
 
 ## Support and Bug Reporting <a name="support"></a>
 
