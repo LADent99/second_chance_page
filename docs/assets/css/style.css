@@ -1,2 +1,4 @@
+---
+---
 
-@import "jekyll-theme-slate"
+@import "{{ site.theme }}";
