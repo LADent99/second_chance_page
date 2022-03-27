@@ -10,7 +10,16 @@ You can use the [editor on GitHub](https://github.com/LADent99/second_chance_pag
 * [Matching](#matching)
 
 
-#### Account Creation <a name="account_creation"></a>
+#### Account Creation / Login <a name="account_creation"></a>
+1. Put in your email for your username. Note: only 1 account per email is allowed in the system
+2. Create your password.  8 charaters minimum, 1 number, 1 uppercase, 1 lowercase, and 1 symbol minimum
+   ![Login Image](second_chance_page/docs/assets/images/login_screen.jpg)
+3. If creating a new account, click **Sign Up** and verify your password.  If logging in, press login and you are finished!
+   ![First Signup Screen](second_chance_page/docs/assets/images/signup_screen1.jpg)
+4. Continue to input the information requested 
+   ![Second Signup Screen](second_chance_page/docs/assets/images/signup_screen2.jpg)
+5. You will recieve a verification email in your inbox, input the code to complete signup! 
+   **TODO: PICTURES FOR INPUT CODE/EMAIL**
 
 #### App Navigation <a name="app_navigation"></a>
 
