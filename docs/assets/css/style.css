@@ -1,6 +1,2 @@
-// Headers
-$header-heading-color: #f00 !default;
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #155799 !default;
 
 @import "jekyll-theme-slate"
